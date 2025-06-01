@@ -20,9 +20,11 @@ layout:
 
 # Welcome
 
-Here you can find all the documentation regarding the #todo make this a link \[AI Robot]\([https://github.com/AI-Robot-GCEK](https://github.com/AI-Robot-GCEK))
+Here you can find all the documentation regarding the #todo make this a link \[AI-Robot]\([https://github.com/AI-Robot-GCEK](https://github.com/AI-Robot-GCEK))
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+&#x20;
+
+
 
 ### Jump right in
 
